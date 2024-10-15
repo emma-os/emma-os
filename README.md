@@ -6,7 +6,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        My name is Emmanuel Eddie - Nkwoh
+        Hey Stranger My name is Emmanuel Eddie - Nkwoh
       </h1>
     </summary>
   </ul>
@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Sp**
+- 💼 I'm currently working on:  **💻 An AI app with Flutter**
+- 🌱 I'm currently learning: **📚 Flutter and Traning AI models **
 - 💬 Ask me about: **💡 JavaScript, React, Flutter, Python, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
